@@ -9,8 +9,8 @@ This involved the transfer of 120 Black-foot paua (Haliotis iris) from Warringto
 Two released methods were used in this study. 
 |Code  |Meaning|
 |------|-------|
-|H1,2,3,4...| Hard releaase|
-|S1,2,3,4...| Soft release|
+|H1,2,3,4...| Hard releaase 1, 2, 3|
+|S1,2,3,4...| Soft release 1, 2, 3|
 
 
 
