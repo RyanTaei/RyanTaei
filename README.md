@@ -20,11 +20,17 @@ Two released methods were used in this study.
   |-----|-----|
   |WAR| Warrington|
 
-  - 'Survey_Sample.xlsx' contains lengths (mm) of paua in quadrats along the 30m transect line. with distance of quadrats (m) being noted.
-    |Code| Meaning|
-    |-----|----|
-    |Q1,2,3,4...|Quadrat|
+  - 'Survey_Sample.xlsx' contains lengths (mm) of paua in quadrats along the 30m transect line. with distance of quadrats (m) being noted
+ 
+ |Code| Meaning|
+ |-----|-------|
+ |Q1,2,3,4...|Quadrat|
 
-    - 
+    - 'Survey_Size_frequency.xlsx' contains the frequency of paua at lengths (mm) ranging from 36-136. Displayed using a size frequency graph
+   |Code|Meaning|
+   |-----|-----|
+   |FREQ| frequency|
+
+
 
 
