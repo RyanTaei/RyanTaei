@@ -31,6 +31,13 @@ Two released methods were used in this study.
    |-----|-----|
    |FREQ| frequency|
 
+- 'translocation_sample.xlsx' contains the length (mm) of paua being translocated to Huriawa.
+|Code|Meaning|
+|----|------|
+|PUK| Puketeraki|
+|WAR| Warrington|
+|HAM| Harbour Mouth|
+
 
 
 
