@@ -12,6 +12,24 @@ Two released methods were used in this study.
 |H1,2,3,4...| Hard releaase|
 |S1,2,3,4...| Soft release|
 
+- Hard release involved placing paua onto the rocks within our patch
+- Soft release involved creating a bull kelp bag (poha) by cutting the kelp open and placing 20 paua inside. Then placed in between rocks to prevent drifting
+
+# data input
+
+- 'AVG_substrate_cover_WAR.xlsx' contains substrate cover in percentage (%) eith graph displaying coverage
+  |code|Meaning|
+  |-----|------|
+  |WAR| Warrington|
+
+- 'Survey_Sample.xlsx' Contains lengths (mm) of paua in quadrats placed along the 30m transect line. with distance of quadrat along the transect line in meters (m).
+  |Code|Meaning|
+  |----|------|
+  |Q1,2,3,4...| Quadrat|
+
+  - 'Survey_Size_frequency.xlsx' contains the frequency of paua lengths (mm) taken from the survey, ranging from 36-136. includes size frequency graph
+    |
+  
 
 
 
