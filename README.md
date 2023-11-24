@@ -12,6 +12,19 @@ Two released methods were used in this study.
 |H1,2,3,4...| Hard releaase 1, 2, 3|
 |S1,2,3,4...| Soft release 1, 2, 3|
 
+- Hard release involved placing paua straight onto the rocks within the chosen patch
+- soft release involved creating Poha (bull kelp bags) by cutting inside of the bull kelp and placing paua inside. which are then transported and placed in between rocks within the chosen patch
 
+- 'AVG_substrate_cover.xlsx' contains substrate cover categorised by sand, gravel, boulder, and reef in percentage (%) with a graoh displaying coverage
+  | Code| Meaning|
+  |-----|-----|
+  |WAR| Warrington|
+
+  - 'Survey_Sample.xlsx' contains lengths (mm) of paua in quadrats along the 30m transect line. with distance of quadrats (m) being noted.
+    |Code| Meaning|
+    |-----|----|
+    |Q1,2,3,4...|Quadrat|
+
+    - 
 
 
