@@ -60,12 +60,24 @@ Two released methods were used in this study.
 | Total count| Total count of paua in/out of poha| 
 |S1,2,3,4…| Site 1,2,3,4…|
 
+- 'Density_per_site' contains the paua density (m^2) per site
+  |Code| Meaning|
+  |-----|-----|
+  |BB| butterfly bay|
+  |H1,2,3,4...| hard release|
+  |S1,2,3,4...| Soft release|
+  |19/11/23 4:30pm | day of release|
+  |20/11/23 1:30pm | day of observation|
+
+
 - ‘HARD VS SOFT.xlsx’ Contains a time series graph showing density count (per m2) comparison between the two release types 21 hours post release. Anova with P-value of 0.003 and summary included 
 
 |Code| Meaning|
 |----|-------|
 |Hard| Hard release| 
 |Soft| Soft release| 
+|19/11/23 4:30pm | day of release|
+|20/11/23 1:30pm | day of observation|
 
 
 
