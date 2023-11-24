@@ -26,7 +26,7 @@ Two released methods were used in this study.
  |-----|-------|
  |Q1,2,3,4...|Quadrat|
 
-    - 'Survey_Size_frequency.xlsx' contains the frequency of paua at lengths (mm) ranging from 36-136. Displayed using a size frequency graph
+ - 'Survey_Size_frequency.xlsx' contains the frequency of paua at lengths (mm) ranging from 36-136. Displayed using a size frequency graph
    |Code|Meaning|
    |-----|-----|
    |FREQ| frequency|
