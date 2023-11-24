@@ -40,7 +40,8 @@ Two released methods were used in this study.
 |WAR| Warrington|
 |HAM| Harbour Mouth|
 
-- 	‘Soft_count_post-Tr.xlsx’ contains raw data count of pāua released in poha 21 hours post translocation. all groups involved. 
+- 	‘Soft_count_post-Tr.xlsx’ contains raw data count of pāua released in poha 21 hours post translocation. all groups involved.
+  
 |Code| Meaning|
 |----|------|
 |BB| Buttefly bay|
@@ -49,12 +50,13 @@ Two released methods were used in this study.
 |out|outside pōha|
 
 
-- ‘Hard count Post-tr.xlsx’ contains raw data count hard released pāua 21 hours post translocation. all groups involved. 
+- ‘Hard count Post-tr.xlsx’ contains raw data count hard released pāua 21 hours post translocation. all groups involved.
+
 |Code| meaning|
 |----|-------|
-  |BB| Butterfly bay |
-	| Total count| Total count of paua in/out of poha| 
-  |S1,2,3,4…| Site 1,2,3,4…|
+|BB| Butterfly bay |
+| Total count| Total count of paua in/out of poha| 
+|S1,2,3,4…| Site 1,2,3,4…|
 
 - ‘HARD VS SOFT.xlsx’ Contains a time series graph showing density count (per m2) comparison between the two release types 21 hours post release. Anova with P-value of 0.003 and summary included 
 
